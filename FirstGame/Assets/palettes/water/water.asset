@@ -12,9 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
   m_Name: water
   m_EditorClassIdentifier: 
-  m_AnimatedSprites: []
-  m_MinSpeed: 1
-  m_MaxSpeed: 1
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: ff16c78c309d21945a01633eb66d79f1, type: 3}
+  - {fileID: 21300000, guid: c3da1ae3846f18f4cbc1cbc899056e25, type: 3}
+  - {fileID: 21300000, guid: 102f15bdf2fa2924e92fa18af9d4fa63, type: 3}
+  - {fileID: 21300000, guid: a500ceece9b571e43962fc7429b9cda1, type: 3}
+  - {fileID: 21300000, guid: 639296c671bc9e142923bf942df94224, type: 3}
+  - {fileID: 21300000, guid: 2d02a79fe33b4cd48ab32c4b9c159dcd, type: 3}
+  - {fileID: 21300000, guid: 9efca04bebe821c468f7d6273020871c, type: 3}
+  - {fileID: 21300000, guid: 2abd5435d21e9dd4eba50ee69baf3bfa, type: 3}
+  - {fileID: 21300000, guid: 706c1f2389fdeb04db4e7243b95d6426, type: 3}
+  - {fileID: 21300000, guid: 11f976c918e75a94ba7e6f4fe8193305, type: 3}
+  - {fileID: 21300000, guid: df03b5962215c1b40aec3559910be16f, type: 3}
+  - {fileID: 21300000, guid: 160b5242e91991f408fee5248492906e, type: 3}
+  - {fileID: 21300000, guid: 5e0b68c4261013a4ab8f354dec4672fb, type: 3}
+  - {fileID: 21300000, guid: 31bcc78606e83e5469c6c31dee6c7081, type: 3}
+  m_MinSpeed: 3
+  m_MaxSpeed: 3
   m_AnimationStartTime: 0
   m_AnimationStartFrame: 0
   m_TileColliderType: 0

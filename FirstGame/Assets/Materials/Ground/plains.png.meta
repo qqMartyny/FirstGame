@@ -617,9 +617,9 @@ TextureImporter:
       name: plains_24
       rect:
         serializedVersion: 2
-        x: 63
+        x: 62
         y: 193
-        width: 15
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -722,9 +722,9 @@ TextureImporter:
       name: plains_29
       rect:
         serializedVersion: 2
-        x: 63
+        x: 62
         y: 175
-        width: 15
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -827,9 +827,9 @@ TextureImporter:
       name: plains_34
       rect:
         serializedVersion: 2
-        x: 63
+        x: 62
         y: 157
-        width: 15
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
