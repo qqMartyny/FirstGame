@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Runtime.ConstrainedExecution;
 using UnityEngine;
 
-public class Zombie : MonoBehaviour
+public class Zombie : Character
 {
     [SerializeField] private Animator animator;
-    [SerializeField] private float moveSpeed;
     private Transform target;
     // Start is called before the first frame update
     private void Start()
